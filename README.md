@@ -15,7 +15,7 @@ cd Fire_Seg_Dataset
 
 ----
 ### Dependencies
-This code requires the following libraries, install these libraries before testing th code. 
+This code requires the following libraries, install these libraries before testing code. 
 - keras_segmentation
 - numpy == 1.21.6
 - h5py == 2.10.0
