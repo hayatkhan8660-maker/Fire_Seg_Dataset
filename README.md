@@ -67,3 +67,6 @@ python train.py --train_images "path to input training fire images"
 --trained_weights "path to output training weights"
 --epochs number_of_epochs
 ```
+
+## Test
+Run the following command to test the proposed trained model for fire segmentation task on the images from test set.
