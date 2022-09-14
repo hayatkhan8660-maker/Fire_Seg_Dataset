@@ -1,5 +1,5 @@
 # Fire_Seg_Dataset
-Efficient Fire Segmentation for Internet-of_Things-Assisted Intelligent Transportation Systems
+Efficient Fire Segmentation for Internet-of_Things-Assisted Intelligent Transportation Systems 
 
 Here is the link to access our newly created fire segmentation dataset.
 
