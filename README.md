@@ -55,3 +55,9 @@ Fire Dataset
 │   ├── .....
 
 ```
+
+## Training
+Run the following command to retrain the LD-Net model on Synthic hazy images from NYU2 Hazy dataset.
+```
+python train.py
+```
