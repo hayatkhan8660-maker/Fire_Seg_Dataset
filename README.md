@@ -57,7 +57,7 @@ Fire Dataset
 ```
 
 ## Training
-Run the following command to retrain the LD-Net model on Synthic hazy images from NYU2 Hazy dataset.
+Run the following command to train the proposed fire segmentation model on our fire segmentation dataset.
 ```
 python train.py
 ```
