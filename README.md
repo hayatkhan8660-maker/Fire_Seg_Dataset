@@ -70,3 +70,6 @@ python train.py --train_images "path to input training fire images"
 
 ## Test
 Run the following command to test the proposed trained model for fire segmentation task on the images from test set.
+```
+python test.py --test_mode "single|multiple|video"
+```
