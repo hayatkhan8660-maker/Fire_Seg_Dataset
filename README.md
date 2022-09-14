@@ -26,8 +26,8 @@ This code requires the following libraries, install these libraries before testi
 
 run ```pip install -r requirements.txt``` to install all the dependencies. 
 
-Here is the link to access our newly created fire segmentation dataset.
+### Our Fire Segmentation Dataset and its Training Setup
+Our fire segmentation dataset consist of fire images and their corresponding annotated fire masks. For training, we divided the dataset into two subsets i.e., train and test sets. Where each set contains fire images and their corresponding annotated fire masks. [Dataset Link](https://drive.google.com/drive/folders/1Xfq7zLwIwJ4vPx50G-k7j2-ofh1bj3fx?usp=sharing)
 
-https://drive.google.com/drive/folders/1Xfq7zLwIwJ4vPx50G-k7j2-ofh1bj3fx?usp=sharing 
+The structure of the dataset directory should be as follows:
 
-Soon we will upload our complete code and its technical details.....
