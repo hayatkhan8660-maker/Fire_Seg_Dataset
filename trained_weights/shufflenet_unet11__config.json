@@ -1,0 +1,1 @@
+{"model_class": "shufflnet_unet", "n_classes": 2, "input_height": 416, "input_width": 608, "output_height": 104, "output_width": 152}

@@ -1,0 +1,2 @@
+model_checkpoint_path: "shufflenet_unet11_.49"
+all_model_checkpoint_paths: "shufflenet_unet11_.49"
