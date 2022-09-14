@@ -1,4 +1,4 @@
-# Fire_Seg_Dataset
+# Fire Segmentation
 Efficient Fire Segmentation for Internet-of_Things-Assisted Intelligent Transportation Systems 
 
 ![](readme_images/framework.png)
