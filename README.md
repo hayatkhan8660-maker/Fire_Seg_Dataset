@@ -31,3 +31,27 @@ Our fire segmentation dataset consist of fire images and their corresponding ann
 
 The structure of the dataset directory should be as follows:
 
+```
+Fire Dataset
+├── images_prepped_train
+│   ├── img(1).jpg
+│   ├── img(2).jpg
+│   ├── img(3).jpg
+│   ├── .....
+├── annotations_prepped_train
+│   ├── img(1).png
+│   ├── img(2).png
+│   ├── img(3).png
+│   ├── .....
+├── images_prepped_test
+│   ├── img(1).jpg
+│   ├── img(2).jpg
+│   ├── img(3).jpg
+│   ├── .....
+├── annotations_prepped_test
+│   ├── img(1).png
+│   ├── img(2).png
+│   ├── img(3).png
+│   ├── .....
+
+```
