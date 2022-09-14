@@ -73,3 +73,8 @@ Run the following command to test the proposed trained model for fire segmentati
 ```
 python test.py --test_mode "single|multiple|video"
 ```
+User can decide the test_mode by providing appropriate argument.
+
+- single: it run the test.py for single image fire segmentation.
+- multiple: it run the test.py for multiple images fire segmentation based on the provided test images directory.
+- video: it run the test.py for fire segmentation in video.
