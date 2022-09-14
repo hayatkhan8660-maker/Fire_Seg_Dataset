@@ -9,8 +9,8 @@ This repo contains the implementation of our proposed fire segmentation method, 
 ---
 This code is written with Anaconda python 3.7. Install the Anaconda python 3.7 and clone the repo with the following command:
 ```
-git clone https://github.com/hayatkhan8660-maker/Light-DehazeNet.git
-cd Light-DehazeNet
+git clone https://github.com/hayatkhan8660-maker/Fire_Seg_Dataset.git
+cd Fire_Seg_Dataset
 ```
 
 Here is the link to access our newly created fire segmentation dataset.
