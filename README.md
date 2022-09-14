@@ -59,5 +59,11 @@ Fire Dataset
 ## Training
 Run the following command to train the proposed fire segmentation model on our fire segmentation dataset.
 ```
-python train.py
+python train.py --train_images "path to input training fire images" \ 
+--train_annotations "path to input training annotations fire masks" \
+--validation_images "path to input validation fire images" \
+--validation_annotations "path to input validation annotations fire masks" \
+--checkpoints_path "path to output training checkpoints" \
+--trained_weights "path to output training weights" \
+--epochs number_of_epochs
 ```
