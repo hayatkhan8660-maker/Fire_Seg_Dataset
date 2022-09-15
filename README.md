@@ -101,3 +101,7 @@ Following are the visual results obtained by our proposed fire segmentation meth
 ![](readme_images/paper_figure5.png)
 
 ![](readme_images/paper_figure6.png)
+
+## Obtained Results on Video 
+
+![](test_images/test_video.gif)
