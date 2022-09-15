@@ -88,7 +88,7 @@ python fire_extraction.py --input_image "input fire image"
 --fire_specific_image "fire sepecific pixels image"
 
 ```
-Comparative results of our method and other state-of-the-art cnn
+Comparative results of our method and other state-of-the-art cnn architectures on our newly created fire segmentation dataset.
 
 | Model  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>IoU</sub>|
 | ------------- | ------------- | ------------- | -------------| ------------- |
