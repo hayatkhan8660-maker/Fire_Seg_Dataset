@@ -93,7 +93,11 @@ python fire_extraction.py --input_image "input fire image"
 Following are the visual results obtained by our proposed fire segmentation method from different experimental setups.
 
 ![](readme_images/paper_figure2.png)
+
 ![](readme_images/paper_figure3.png)
+
 ![](readme_images/paper_figure4.png)
+
 ![](readme_images/paper_figure5.png)
+
 ![](readme_images/paper_figure6.png)
