@@ -88,7 +88,7 @@ python fire_extraction.py --input_image "input fire image"
 --fire_specific_image "fire sepecific pixels image"
 
 ```
-COMPARATIVE RESULTS OF OUR METHOD AND OTHER STATE-OF-THE-ART CNN ARCHITECTURES ON OUR NEWLY CREATED FIRE SEGMENTATION DATASET
+Comparative results of our method and other state-of-the-art cnn
 
 | Model  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>IoU</sub>|
 | ------------- | ------------- | ------------- | -------------| ------------- |
@@ -97,6 +97,7 @@ COMPARATIVE RESULTS OF OUR METHOD AND OTHER STATE-OF-THE-ART CNN ARCHITECTURES O
 | UNet+MobileNetV1 | 88.29 | 71.05 | 63.56| 80.15 |
 | Proposed | 89.54 | 74.27 | 67.39 | 82.64|
 
+COMPARATIVE RESULTS OF OUR METHOD AND OTHER STATE-
 ## Obtained Visual Results from Conducted Experiments 
 Following are the visual results obtained by our proposed fire segmentation method from different experimental setups.
 
