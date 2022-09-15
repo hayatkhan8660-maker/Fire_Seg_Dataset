@@ -91,7 +91,7 @@ python fire_extraction.py --input_image "input fire image"
 Comparative results of our method and other state-of-the-art cnn architectures on our newly created fire segmentation dataset.
 
 | Model  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>IoU</sub>|
-| ------------- | ------------- | ------------- | -------------| ------------- |      | Method | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub>| Mean<sub>IoU</sub> | FW<sub>IoU</sub> |
+| ------------- | ------------- | ------------- | -------------| ------------- |     
 | UNet+VGG16   | 85.22  | 61.30 | 56.19 | 76.84 |
 | UNet+ResNet50  | 88.43  | 69.17 | 62.47 | 79.92 |
 | UNet+MobileNetV1 | 88.29 | 71.05 | 63.56| 80.15 |
