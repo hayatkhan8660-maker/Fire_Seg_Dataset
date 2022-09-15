@@ -97,7 +97,14 @@ Comparative results of our method and other state-of-the-art cnn architectures o
 | UNet+MobileNetV1 | 88.29 | 71.05 | 63.56| 80.15 |
 | Proposed | 89.54 | 74.27 | 67.39 | 82.64|
 
-Comparative results of our proposed method and other state-of-the-art segmentation networks on test set 
+Comparative results of our proposed method and other state-of-the-art segmentation networks on test set.
+
+| Model  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>IoU</sub>|
+| ------------- | ------------- | ------------- | -------------| ------------- |     
+| SegNet   | 84.63  | 75.92 | 80.41 | 87.66 |
+| FCN  | 85.76  | 75.47 | 72.65 | 89.20 |
+| PSPNet | 88.17 | 78.62 | 74.19| 89.58 |
+| Proposed | 94.54 | 85.27 | 83.35 | 93.96| 
 ## Obtained Visual Results from Conducted Experiments 
 Following are the visual results obtained by our proposed fire segmentation method from different experimental setups.
 
