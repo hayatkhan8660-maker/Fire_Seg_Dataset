@@ -88,10 +88,12 @@ python fire_extraction.py --input_image "input fire image"
 --fire_specific_image "fire sepecific pixels image"
 
 ```
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Model  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>2</sub>
+| ------------- | ------------- | ------------- | -------------| ------------- |
+| UNet+VGG16   | 85.22  | 61.30 | 56.19 | 76.84 |
+| UNet+ResNet50  | 88.43  | 69.17 | 62.47 | 79.92 |
+| UNet+MobileNetV1 | 88.29 | 71.05 | 63.56| 80.15 |
+| Proposed | 89.54 | 74.27 | 67.39 | 82.64|
 
 ## Obtained Visual Results from Conducted Experiments 
 Following are the visual results obtained by our proposed fire segmentation method from different experimental setups.
