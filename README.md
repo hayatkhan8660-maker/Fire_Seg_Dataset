@@ -88,6 +88,8 @@ python fire_extraction.py --input_image "input fire image"
 --fire_specific_image "fire sepecific pixels image"
 
 ```
+COMPARATIVE RESULTS OF OUR METHOD AND OTHER STATE-OF-THE-ART CNN ARCHITECTURES ON OUR NEWLY CREATED FIRE SEGMENTATION DATASET
+
 | Model  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>IoU</sub>|
 | ------------- | ------------- | ------------- | -------------| ------------- |
 | UNet+VGG16   | 85.22  | 61.30 | 56.19 | 76.84 |
