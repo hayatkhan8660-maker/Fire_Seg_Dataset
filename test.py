@@ -35,7 +35,7 @@ else:
   predict(
     model,
     checkpoints_path="path to the trained model checkpoints", 
-    inp="path to the input fir image",
+    inp="path to the input fire image",
     out_fname="path to the output fire segmented image")
 
 
