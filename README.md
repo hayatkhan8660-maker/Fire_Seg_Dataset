@@ -133,4 +133,4 @@ Following are the visual results obtained by our proposed fire segmentation meth
 ## Obtained Results on Video 
 Following results are obtained by testing our proposed method on fire videos.
 
-<img src="test_images/test_video.gif" width="480"/> <img src="Visual_output_results/ouput_segmented_video.gif" width="480"/> 
+<img src="test_images/test_video.gif" width="450"/> <img src="Visual_output_results/ouput_segmented_video.gif" width="450"/> 
