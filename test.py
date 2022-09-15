@@ -21,20 +21,20 @@ model.summary()
 if args["test_mode"] == "multiple":
   predict_multiple(
   model, 
-  checkpoints_path="path to the trained model checpoints", 
+  checkpoints_path="path to the trained model checkpoints", 
   inp_dir="path to the input fire images directory", 
   out_dir="path to the output segmented fire images directory")
 
 elif args["test_mode"] == "video":
   predict_video(
   model,
-  checkpoints_path="path to the trained model checpoints", 
+  checkpoints_path="path to the trained model checkpoints", 
   inp="path to the input test video", 
   output="path to the output fire segmented video")
 else:
   predict(
     model,
-    checkpoints_path="path to the trained model checpoints", 
+    checkpoints_path="path to the trained model checkpoints", 
     inp="path to the input fir image",
     out_fname="path to the output fire segmented image")
 
