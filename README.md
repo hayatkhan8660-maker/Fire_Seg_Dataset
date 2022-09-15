@@ -78,3 +78,13 @@ User can decide the test_mode by providing appropriate argument.
 - single: it run the test.py for single image fire segmentation.
 - multiple: it run the test.py for multiple images fire segmentation based on the provided test images directory.
 - video: it run the test.py for fire segmentation in video.
+
+## Fire Extraction
+Run the following command to extract fire specific regions from the input fire image using model predicted segmentation mask.
+
+```
+python fire_extraction.py --input_image "input fire image" 
+--segmented_image "corresponding model segmented image"
+--fire_specific_image "fire sepecific pixels image"
+
+```
