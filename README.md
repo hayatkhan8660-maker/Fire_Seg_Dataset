@@ -97,7 +97,7 @@ Comparative results of our method and other state-of-the-art cnn architectures o
 | UNet+MobileNetV1 | 88.29 | 71.05 | 63.56| 80.15 |
 | Proposed | 89.54 | 74.27 | 67.39 | 82.64|
 
-COMPARATIVE RESULTS OF OUR METHOD AND OTHER STATE-
+Comparative results of our proposed method and other state-of-the-art segmentation networks on test set 
 ## Obtained Visual Results from Conducted Experiments 
 Following are the visual results obtained by our proposed fire segmentation method from different experimental setups.
 
