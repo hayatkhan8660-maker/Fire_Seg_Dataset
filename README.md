@@ -90,7 +90,7 @@ python fire_extraction.py --input_image "input fire image"
 ```
 Comparative results of our method and other state-of-the-art cnn architectures on our newly created fire segmentation dataset.
 
-| Model  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>IoU</sub>|
+| Method  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>IoU</sub>|
 | ------------- | ------------- | ------------- | -------------| ------------- |     
 | UNet+VGG16   | 85.22  | 61.30 | 56.19 | 76.84 |
 | UNet+ResNet50  | 88.43  | 69.17 | 62.47 | 79.92 |
@@ -99,12 +99,24 @@ Comparative results of our method and other state-of-the-art cnn architectures o
 
 Comparative results of our proposed method and other state-of-the-art segmentation networks on test set.
 
-| Model  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>IoU</sub>|
+| Method  | Pixel<sub>accuracy</sub> | Mean<sub>accuracy</sub> | Mean<sub>IoU</sub> | FW<sub>IoU</sub>|
 | ------------- | ------------- | ------------- | -------------| ------------- |     
 | SegNet   | 84.63  | 75.92 | 80.41 | 87.66 |
 | FCN  | 85.76  | 75.47 | 72.65 | 89.20 |
 | PSPNet | 88.17 | 78.62 | 74.19| 89.58 |
 | Proposed | 94.54 | 85.27 | 83.35 | 93.96| 
+
+Comparative quantitative results of our method and other fire segmentation methods based on MFLPOS/image, model size, and frames per second (FPS).
+
+| Method  | MFLOPS/image | Model Size (MB) | FPS | 
+| ------------- | ------------- | ------------- | -------------|      
+| UNet+ResNet50   | 3860  | 74.2 | 21 |
+| UNet+VGG16 | 15300  | 62.9 | 22 | 
+| UNet+MobileNetV1 | 569 | 17.2 | 26| 
+| EFDNet | - | 4.80 | 63 |  
+| CNNFire | 833 | 3.06 | 20 |  
+| Proposed | 140 | 1.49 | 27 |  
+
 ## Obtained Visual Results from Conducted Experiments 
 Following are the visual results obtained by our proposed fire segmentation method from different experimental setups.
 
