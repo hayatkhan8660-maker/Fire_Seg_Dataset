@@ -88,6 +88,10 @@ python fire_extraction.py --input_image "input fire image"
 --fire_specific_image "fire sepecific pixels image"
 
 ```
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## Obtained Visual Results from Conducted Experiments 
 Following are the visual results obtained by our proposed fire segmentation method from different experimental setups.
