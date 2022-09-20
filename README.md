@@ -1,5 +1,5 @@
 # Fire Segmentation
-Efficient Fire Segmentation for Internet-of_Things-Assisted Intelligent Transportation Systems 
+Efficient Fire Segmentation for Internet-of_Things-Assisted Intelligent Transportation Systems [paper](https://ieeexplore.ieee.org/abstract/document/9894370)
 
 ![](readme_images/framework.png)
 
