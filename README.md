@@ -136,7 +136,7 @@ Following results are obtained by testing our proposed method on fire videos.
 <img src="readme_images/fire_video_gif.gif" width="1000"/>
 
 ## Citation
-Please cite our paper, if you want to reproduce the results using this code.
+If you use our work in your research or wish to refer to the baseline results published here, please use the following entries for citation.
 
 BbibTex
 ```
