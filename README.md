@@ -134,3 +134,11 @@ Following are the visual results obtained by our proposed fire segmentation meth
 Following results are obtained by testing our proposed method on fire videos.
 
 <img src="readme_images/fire_video_gif.gif" width="1000"/>
+
+## Citation
+Please cite our paper, if you want to reproduce the results using this code.
+
+```
+Muhammad, Khan, et al. "Efficient Fire Segmentation for Internet-of-Things-Assisted Intelligent Transportation Systems." 
+IEEE Transactions on Intelligent Transportation Systems (2022).
+```
