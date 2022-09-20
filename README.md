@@ -6,14 +6,13 @@ Efficient Fire Segmentation for Internet-of_Things-Assisted Intelligent Transpor
 ## Introduction
 This repo contains the implementation of our proposed fire segmentation method, the prerequisite libraries, and link of our newly created dataset we have used in our experiments. For testing purpose we also provide a trained model weights and test fire images.
 
----
+## Installation
 This code is written with Anaconda python 3.7. Install the Anaconda python 3.7 and clone the repo with the following command:
 ```
 git clone https://github.com/hayatkhan8660-maker/Fire-Segmentation-for-Intelligent-Transportation-System
 cd Fire-Segmentation-for-Intelligent-Transportation-System
 ```
 
-----
 ### Dependencies
 This code requires the following libraries, install these libraries before testing code. 
 - keras_segmentation
