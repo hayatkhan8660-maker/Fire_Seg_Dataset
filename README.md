@@ -137,7 +137,15 @@ Following results are obtained by testing our proposed method on fire videos.
 
 ## Citation
 Please cite our paper, if you want to reproduce the results using this code.
-
+```
+@article{muhammad2022efficient,
+  title={Efficient Fire Segmentation for Internet-of-Things-Assisted Intelligent Transportation Systems},
+  author={Muhammad, Khan and Ullah, Hayat and Khan, Salman and Hijji, Mohammad and Lloret, Jaime},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2022},
+  publisher={IEEE}
+}
+```
 ```
 Muhammad, Khan, Hayat Ullah, Salman Khan, Mohammad Hijji, and Jaime Lloret. 
 "Efficient Fire Segmentation for Internet-of-Things-Assisted Intelligent Transportation Systems." 
