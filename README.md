@@ -8,7 +8,7 @@ This repo contains the implementation of our proposed fire segmentation method, 
 
 ## Installation
 This code is written with Anaconda python 3.7. Install the Anaconda python 3.7 and clone the repo with the following command:
-```
+``` 
 git clone https://github.com/hayatkhan8660-maker/Fire-Segmentation-for-Intelligent-Transportation-System
 cd Fire-Segmentation-for-Intelligent-Transportation-System
 ```
