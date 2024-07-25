@@ -1,4 +1,4 @@
-# Efficient fire segmentation for internet-of-things-assisted intelligent transportation systems [IEEE TITS 2022]
+# Efficient Fire Segmentation for Internet-of-Things-Assisted Intelligent Transportation Systems [IEEE TITS 2022]
 
 [Khan Muhammad](https://scholar.google.com.pk/citations?user=k5oUZyQAAAAJ&hl=en),
 [Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),
