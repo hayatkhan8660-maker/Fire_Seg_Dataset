@@ -6,8 +6,7 @@
 [Muhammad Hijji](https://scholar.google.com.pk/citations?user=GuFKeRsAAAAJ&hl=en),
 [Jaime Lloret](https://scholar.google.com.pk/citations?user=ZJYUEGEAAAAJ&hl=en),
 
-
-Efficient Fire Segmentation for Internet-of_Things-Assisted Intelligent Transportation Systems [paper](https://ieeexplore.ieee.org/abstract/document/9894370)
+[![paper](https://img.shields.io/badge/IEEE|TITS-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9894370)
 
 ![](readme_images/framework.png)
 
