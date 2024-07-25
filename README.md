@@ -1,4 +1,12 @@
-# Fire Segmentation
+# Efficient fire segmentation for internet-of-things-assisted intelligent transportation systems [IEEE TITS 2022]
+
+[Khan Muhammad](https://scholar.google.com.pk/citations?user=k5oUZyQAAAAJ&hl=en),
+[Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),
+[Salman Khan](https://scholar.google.com.pk/citations?user=0kXugtIAAAAJ&hl=en),
+[Muhammad Hijji](https://scholar.google.com.pk/citations?user=GuFKeRsAAAAJ&hl=en),
+[Jaime Lloret](https://scholar.google.com.pk/citations?user=ZJYUEGEAAAAJ&hl=en),
+
+
 Efficient Fire Segmentation for Internet-of_Things-Assisted Intelligent Transportation Systems [paper](https://ieeexplore.ieee.org/abstract/document/9894370)
 
 ![](readme_images/framework.png)
