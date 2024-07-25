@@ -6,7 +6,11 @@
 [Muhammad Hijji](https://scholar.google.com.pk/citations?user=GuFKeRsAAAAJ&hl=en),
 [Jaime Lloret](https://scholar.google.com.pk/citations?user=ZJYUEGEAAAAJ&hl=en),
 
-[![paper](https://img.shields.io/badge/IEEE|TITS-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9894370)
+<hr />
+
+> **Abstract:**
+>*Rapid developments in deep learning (DL) and the Internet-of-Things (IoT) have enabled vision-based systems to efficiently detect fires at their early stage and avoid massive disasters. Implementing such IoT-driven fire detection systems can significantly reduce the corresponding ecological, social, and economic destruction; they can also provide smart monitoring for intelligent transportation systems (ITSs). However, deploying these systems requires lightweight and cost-effective convolutional neural networks (CNNs) for real-time processing on artificial intelligence (AI)-assisted edge devices. Therefore, in this paper, we propose an efficient and lightweight CNN architecture for early fire detection and segmentation, focusing on IoT-enabled ITS environments. We effectively utilize depth-wise separable convolution, point-wise group convolution, and a channel shuffling strategy with an optimal number of convolution kernels per layer, significantly reducing the model size and computation costs. Extensive experiments on our newly developed and other benchmark fire segmentation datasets reveal the effectiveness and robustness of our approach against state-of-the-art fire segmentation methods. Further, the proposed method maintains a balanced trade-off between the model efficiency and accuracy, making our system more suitable for IoT-driven fire disaster management in ITSs.*
+
 
 ![](readme_images/framework.png)
 
