@@ -17,9 +17,6 @@ This repo contains the implementation of our proposed fire segmentation method, 
 
 ![](readme_images/framework.png)
 
-## Introduction
-This repo contains the implementation of our proposed fire segmentation method, the prerequisite libraries, and link of our newly created dataset we have used in our experiments. For testing purpose we also provide a trained model weights and test fire images.
-
 ## Installation
 This code is written with Anaconda python 3.7. Install the Anaconda python 3.7 and clone the repo with the following command:
 ``` 
@@ -149,7 +146,7 @@ Following results are obtained by testing our proposed method on fire videos.
 <img src="readme_images/fire_video_gif.gif" width="1000"/>
 
 ## Citation
-If you use our work in your research or wish to refer to the baseline results published here, please use the following entries for citation.
+If you find our work, this repository useful, please consider giving a star :star: and citation.
 
 BbibTex
 ```
